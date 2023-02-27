@@ -16,7 +16,7 @@ This dataset contains 1338 rows of insured data, where the Insurance charges are
 <h3> charges </h3> Individual medical costs billed by health insurance.
 
 <h2> EDA </h2>
-<UL style="list-style-type:disc;>
+<oL type = 1>
   <li>Statistical Analysis</li>
   <li>Data Cleaning</li>
   <li>Univariate Analysis</li>
@@ -25,7 +25,7 @@ This dataset contains 1338 rows of insured data, where the Insurance charges are
   <li>Check Duplicates</li>
   <li>Feature Engineering</li>
   <li>Model Deployment</li>
-</ul>
+</ol>
            
 <h2> Model Building </h2>
 
