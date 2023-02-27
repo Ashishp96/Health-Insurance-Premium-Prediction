@@ -26,6 +26,7 @@ This dataset contains 1338 rows of insured data, where the Insurance charges are
   <li>Feature Engineering</li>
   <li>Model Deployment</li>
 </ul>
+           
 <h2> Model Building </h2>
 
 Used Linear regression model and Random Forest regressor model to predict premium value.
