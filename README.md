@@ -3,7 +3,7 @@ Predict health insurance premium of person by using features like age, bmi, gend
 
 
 
-<h3> About data </h3>
+<h2> About data </h2>
 
 This dataset contains 1338 rows of insured data, where the Insurance charges are given against the following attributes of the insured: Age, Sex, BMI, Number of Children, Smoker and Region. The attributes are a mix of numeric and categorical variables.
 
@@ -15,7 +15,17 @@ This dataset contains 1338 rows of insured data, where the Insurance charges are
 <h3> region </h3> The beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
 <h3> charges </h3> Individual medical costs billed by health insurance.
 
-
+<h2> EDA </h2>
+<OL>
+  Statistical Analysis
+  Data Cleaning
+  Univariate Analysis
+  Bivariate Analysis
+  Check Correlation and multicollinearity
+  Check Duplicates
+  Feature Engineering
+  Model Deployment
+</ol>
 <h2> Model Building </h2>
 
 Used Linear regression model and Random Forest regressor model to predict premium value.
