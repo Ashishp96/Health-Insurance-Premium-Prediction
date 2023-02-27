@@ -16,16 +16,16 @@ This dataset contains 1338 rows of insured data, where the Insurance charges are
 <h3> charges </h3> Individual medical costs billed by health insurance.
 
 <h2> EDA </h2>
-<OL>
-  Statistical Analysis
-  Data Cleaning
-  Univariate Analysis
-  Bivariate Analysis
-  Check Correlation and multicollinearity
-  Check Duplicates
-  Feature Engineering
-  Model Deployment
-</ol>
+<UL style="list-style-type:disc;>
+  <li>Statistical Analysis</li>
+  <li>Data Cleaning</li>
+  <li>Univariate Analysis</li>
+  <li>Bivariate Analysis</li>
+  <li>Check Correlation and multicollinearity</li>
+  <li>Check Duplicates</li>
+  <li>Feature Engineering</li>
+  <li>Model Deployment</li>
+</ul>
 <h2> Model Building </h2>
 
 Used Linear regression model and Random Forest regressor model to predict premium value.
