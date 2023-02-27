@@ -16,4 +16,8 @@ This dataset contains 1338 rows of insured data, where the Insurance charges are
 <h3> charges </h3> Individual medical costs billed by health insurance.
 
 
+<h2> Model Building </h2>
+
+Used Linear regression model and Random Forest regressor model to predict premium value.
+Linear regression model is giving accuracy of 74% and Random forest Regressor is giving 85% accuracy, hence Random Forest Regressor is deployed.
 
